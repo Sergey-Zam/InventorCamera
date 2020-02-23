@@ -2,10 +2,10 @@ c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\Inven
 c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\bin\Debug\InventorCamera.exe
 c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\bin\Debug\InventorCamera.pdb
 c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\bin\Debug\InventorCamera.xml
-c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\obj\Debug\InventorCamera.vbprojResolveAssemblyReference.cache
 c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\obj\Debug\InventorCamera.Form1.resources
 c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\obj\Debug\InventorCamera.Resources.resources
 c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\obj\Debug\InventorCamera.vbproj.GenerateResource.Cache
 c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\obj\Debug\InventorCamera.exe
 c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\obj\Debug\InventorCamera.xml
 c:\users\сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\obj\Debug\InventorCamera.pdb
+C:\Users\Сергей\documents\visual studio 2015\Projects\InventorCamera\InventorCamera\obj\Debug\InventorCamera.vbprojResolveAssemblyReference.cache
